@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/masaki/projects/scloud/src/Sport/CloudBundle/Client'
+let g:netrw_dirhist_2='/home/masaki/projects/scloud/src/Sport/CloudBundle/Utils'
+let g:netrw_dirhist_3='/home/masaki/projects/scloud/src/Sport/CloudBundle/Listener'
+let g:netrw_dirhist_4='/home/masaki/projects/scloud/src/Sport/CloudBundle'
+let g:netrw_dirhist_5='/home/masaki/projects/scloud/src/Sport/CloudBundle/Validator/Constraints'
+let g:netrw_dirhist_6='/home/masaki/projects/scloud'
+let g:netrw_dirhist_7='/home/masaki/projects/scloud/app/config'
+let g:netrw_dirhist_8='/home/masaki/projects/scloud/src/Sport/CloudBundle'
+let g:netrw_dirhist_9='/home/masaki/projects/scloud/src/Sport/CloudBundle/Manager'

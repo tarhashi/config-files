@@ -1,0 +1,1 @@
+{"generated_by":"Vimana-2010.03419","install_type":"auto","version":0.2,"files":[{"checksum":"918bfdb0816bcea65e42595cdcb9a53e","file":"/home/masaki/.vim/plugin/rails.vim"},{"checksum":"22fc579dc67295067129ccf6bbd3d566","file":"/home/masaki/.vim/doc/rails.txt"},{"checksum":"760d305c6980a77e6d429742614d696a","file":"/home/masaki/.vim/autoload/rails.vim"}],"package":"rails.vim"}
